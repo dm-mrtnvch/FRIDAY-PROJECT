@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f652b76-0cbe-4053-ae0e-6d6c47a67c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/CreateNewPasswordAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/LoginAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/ProfileAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/RecoverPasswordAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/RegistrationAPI.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/base-url.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/LoginAPI.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/LoginAPI.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +31,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uRKnT3vZZsiTO6KpXrhcysK31Y" />
@@ -51,7 +52,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="C:\Users\dmvsh\OneDrive\Documents\GitHub\friday-project\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -83,6 +84,7 @@
       <workItem from="1624624278157" duration="5143000" />
       <workItem from="1624631931506" duration="618000" />
       <workItem from="1624632608471" duration="741000" />
+      <workItem from="1625233810210" duration="700000" />
     </task>
     <servers />
   </component>
