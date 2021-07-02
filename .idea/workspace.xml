@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f652b76-0cbe-4053-ae0e-6d6c47a67c33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/LoginAPI.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/LoginAPI.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +81,16 @@
       <workItem from="1624624278157" duration="5143000" />
       <workItem from="1624631931506" duration="618000" />
       <workItem from="1624632608471" duration="741000" />
-      <workItem from="1625233810210" duration="700000" />
+      <workItem from="1625233810210" duration="3211000" />
     </task>
+    <task id="LOCAL-00001" summary="add login">
+      <created>1625234680825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625234680825</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,38 +108,8 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624633185177">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624633185177" />
-    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1624624313323">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="741" y="275" key="FileChooserDialogImpl/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624624313323" />
-    <state width="1900" height="282" key="GridCell.Tab.0.bottom" timestamp="1624633355656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="282" key="GridCell.Tab.0.bottom/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624633355656" />
-    <state width="1900" height="282" key="GridCell.Tab.0.center" timestamp="1624633355656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="282" key="GridCell.Tab.0.center/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624633355656" />
-    <state width="1900" height="282" key="GridCell.Tab.0.left" timestamp="1624633355656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="282" key="GridCell.Tab.0.left/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624633355656" />
-    <state width="1900" height="282" key="GridCell.Tab.0.right" timestamp="1624633355656">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="282" key="GridCell.Tab.0.right/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624633355656" />
-    <state x="670" y="252" width="579" height="534" key="find.popup" timestamp="1624629934188">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="670" y="252" width="579" height="534" key="find.popup/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624629934188" />
-    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1624629944753">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624629944753" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add login" />
+    <option name="LAST_COMMIT_MESSAGE" value="add login" />
   </component>
 </project>
