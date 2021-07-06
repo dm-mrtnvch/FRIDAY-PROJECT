@@ -25,18 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f652b76-0cbe-4053-ae0e-6d6c47a67c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/emailValidation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/password-validation.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/button/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/button/button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/input/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/input/input.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/routes/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/routes/routes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/registration/registration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/registration/registration.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/RegistrationAPI.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/RegistrationAPI.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/registration-reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/registration-reducers.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
