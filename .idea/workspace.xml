@@ -25,17 +25,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f652b76-0cbe-4053-ae0e-6d6c47a67c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/emailValidation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/password-validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/credentials/password/pass-create-new/create-new-pass.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/credentials/password/pass-recover/recover-password.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/credentials/registration/registration.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/button/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/button/button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/input/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/input/input.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/routes/routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/routes/routes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/login/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/password/pass-create-new/create-new-password.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/password/pass-create-new/create-new-password.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/credentials/password/pass-recover/recover-password.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/password/pass-recover/recover-password.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/user/credentials/registration/registration.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/credentials/registration/registration.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/login-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/new-password-reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/new-password-reducers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/recover-password-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/recover-password-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/registration-reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/registration-reducers.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +101,7 @@
       <workItem from="1624624278157" duration="5143000" />
       <workItem from="1624631931506" duration="618000" />
       <workItem from="1624632608471" duration="741000" />
+      <workItem from="1625599560399" duration="772000" />
     </task>
     <servers />
   </component>
@@ -153,9 +155,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="252" width="579" height="534" key="find.popup/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624629934188" />
-    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1624629944753">
+    <state x="624" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1625582717223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="624" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/996.2160.1536.824@0.0.1920.1040" timestamp="1625582717223" />
     <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/996.2160.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1624629944753" />
   </component>
 </project>
