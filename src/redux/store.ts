@@ -3,9 +3,9 @@ import loginReducer, {actionsLoginType} from './reducers/login-reducer';
 import registrationReducer, {actionsRegistrationType} from './reducers/registration-reducers';
 import recoverPasswordReducer, {actionsPasswordRecoveryType} from './reducers/recover-password-reducer';
 import NewPasswordReducer, {actionsSetNewPasswordType} from './reducers/new-password-reducers';
-import profileReducer from './reducers/profile-reducer';
 import {applyMiddleware, combineReducers, compose, createStore} from 'redux';
 import thunk, { ThunkAction } from 'redux-thunk';
+import {profileReducer} from './reducers/profile-reducer';
 
 
 const rootReducer = combineReducers({

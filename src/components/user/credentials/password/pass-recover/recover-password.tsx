@@ -48,6 +48,7 @@ const RecoverPassword = (props: any) => {
     }, [])
 
     if (success) {
+        debugger
         return <Redirect to={`/password-recovery-check-email/${email}`}/>
     }
 

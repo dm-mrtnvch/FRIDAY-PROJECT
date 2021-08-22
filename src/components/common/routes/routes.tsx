@@ -12,6 +12,7 @@ import {
     REGISTER_PATH,
     SET_NEW_PASSWORD_PATH
 } from '../../../constants/constants';
+import {CheckEmail} from '../../user/credentials/password/pass-recover/check-email';
 
 
 const Routes = () => {
@@ -24,6 +25,7 @@ const Routes = () => {
             <Route path={REGISTER_PATH} render={() => <Registration/>}/>
             <Route path={RECOVER_PASSWORD_PATH} render={() => <RecoverPassword/>}/>
             <Route path={SET_NEW_PASSWORD_PATH} render={() => <NewPassword/>}/>
+            <Route path={'/password-recovery-check-email/:email'} render={() => <CheckEmail/>}/>
         </>
 
     )

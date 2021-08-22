@@ -2,6 +2,7 @@ import axios from "axios";
 
 export const instance = axios.create({
     baseURL: 'https://dry-forest-56016.herokuapp.com/',
+    // baseURL: 'https://neko-back.herokuapp.com/2.0/auth/me',
     // withCredentials: true
 });
 
@@ -19,7 +20,7 @@ export const authAPI = {
         return instance.post<any>('auth/me', {})
     },
     logOut: () => {
-        return instance.delete<any>('auth/me', {})
+        return instance.delete<any>('auth/me', )
     }
 }
 
@@ -34,7 +35,7 @@ export const passwordRecoveryAPI = {
         return instance.post('auth/forgot', {
             email,
             from: 'test-front-admin <ai73a@yandex.by>',
-            message: `<div style="background-color: lime; padding: 15px">password recovery link: 
+            message: `<div style="background-color: #00ff00; padding: 15px">password recovery link: 
                         <a href='https://IvanStupchyk.github.io/learning-cards#/new-password/$token$'>link</a></div>`
         })
     }
